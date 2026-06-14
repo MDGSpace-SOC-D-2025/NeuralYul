@@ -1,0 +1,6 @@
+[21:11:05 2026-04-17] FETCHING Version 2.43.1
+[21:11:05 2026-04-17] DOWNLOADING https://github.com/spicetify/cli/releases/download/v2.43.1/spicetify-2.43.1-darwin-arm64.tar.gz
+[21:11:06 2026-04-17] EXTRACTING /Users/chayanaggarwal/.spicetify/spicetify.tar.gz
+[21:11:06 2026-04-17] SETTING EXECUTABLE PERMISSIONS TO /Users/chayanaggarwal/.spicetify/spicetify
+[21:11:06 2026-04-17] REMOVING /Users/chayanaggarwal/.spicetify/spicetify.tar.gz
+[21:11:06 2026-04-17] APPENDING /Users/chayanaggarwal/.spicetify to PATH in /Users/chayanaggarwal/.zshrc
